@@ -14,6 +14,7 @@ Self-initiated demonstrations, not client work. Every company in them is invente
 | [Broken automation, repaired](https://flowlab-dev.github.io/demo/automation-repair/) | One shift replayed through the old and the repaired n8n order intake: 14 orders lost before, zero after. |
 | [Telegram order bot](https://flowlab-dev.github.io/demo/telegram-orders/) | A night of chats turned into orders before the owner wakes up, with real questions passed to a human. |
 | [Website that answers with a price](https://flowlab-dev.github.io/demo/business-site/) | The visitor describes a part and sees the price, the breakdown and the lead time while they type. |
+| [Shop-floor order board](https://flowlab-dev.github.io/demo/web-app/) | An internal tool: office and floor see the same board with different rights, every job from quote to shipping. |
 
 ### How I work
 
