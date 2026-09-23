@@ -1,16 +1,27 @@
-## Hi there 👋
+## Flow Lab
 
-<!--
-**flowlab-dev/flowlab-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that still works a year later.
 
-Here are some ideas to get you started:
+Websites and web apps - iOS and Android apps - native macOS tools - browser and mobile games - AI assistants trained on your own content - Telegram bots - automations in n8n, Make and Zapier, including fixing broken ones - TradingView indicators in Pine Script v6.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Demos you can open and try
+
+Self-initiated demonstrations, not client work. Every company in them is invented, and each page says so.
+
+| Demo | What it shows |
+|---|---|
+| [Support assistant](https://flowlab-dev.github.io/demo/chatbot/) | Answers only from a company's own help centre, shows the source, says "I don't know" instead of guessing. 74 test questions, all pass. |
+| [Broken automation, repaired](https://flowlab-dev.github.io/demo/automation-repair/) | One shift replayed through the old and the repaired n8n order intake: 14 orders lost before, zero after. |
+| [Telegram order bot](https://flowlab-dev.github.io/demo/telegram-orders/) | A night of chats turned into orders before the owner wakes up, with real questions passed to a human. |
+| [Website that answers with a price](https://flowlab-dev.github.io/demo/business-site/) | The visitor describes a part and sees the price, the breakdown and the lead time while they type. |
+
+### How I work
+
+Before any code, I write back what I understood as plain rules. You see the real thing on a private link, not a status report. After launch, an optional monthly plan covers updates, backups, small changes and failure alerts.
+
+### Contact
+
+- Website: [flowlab-dev.github.io](https://flowlab-dev.github.io)
+- Contra: [contra.com/flowlab_trading_0ng4zwrr](https://contra.com/flowlab_trading_0ng4zwrr)
+- Telegram: [@flowlabdev](https://t.me/flowlabdev)
+- Email: trading.flowlab@gmail.com
